@@ -1,4 +1,5 @@
-
+# Blog
+The NestAngularBlog project integrates NestJS and Angular to create a powerful, full-stack web application. The backend uses NestJS with TypeORM and ElephantSQL for robust data management, while Angular and Angular Materials ensure a dynamic, modern frontend. RxJS Observables streamline real-time data handling, and Angular Universal enhances server-side rendering for improved performance and SEO. Comprehensive testing with Cypress ensures reliability, making this project a showcase of efficient and scalable web development.
 # Instructions to run the Project
 
 ## With Docker
